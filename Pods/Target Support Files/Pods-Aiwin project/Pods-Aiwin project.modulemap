@@ -1,0 +1,6 @@
+framework module Pods_Aiwin_project {
+  umbrella header "Pods-Aiwin project-umbrella.h"
+
+  export *
+  module * { export * }
+}

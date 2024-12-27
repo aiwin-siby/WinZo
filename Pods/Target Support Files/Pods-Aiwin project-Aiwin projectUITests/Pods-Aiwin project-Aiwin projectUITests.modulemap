@@ -1,0 +1,6 @@
+framework module Pods_Aiwin_project_Aiwin_projectUITests {
+  umbrella header "Pods-Aiwin project-Aiwin projectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

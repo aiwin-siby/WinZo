@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		034785F643BF37145FD7A67D /* Pods_Aiwin_project.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F42CB8D33D4BD49046443127 /* Pods_Aiwin_project.framework */; };
 		2A13E0C62CE48B8900CF53C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0C52CE48B8900CF53C2 /* AppDelegate.swift */; };
 		2A13E0C82CE48B8900CF53C2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0C72CE48B8900CF53C2 /* SceneDelegate.swift */; };
 		2A13E0CA2CE48B8900CF53C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0C92CE48B8900CF53C2 /* ViewController.swift */; };
@@ -17,6 +18,27 @@
 		2A13E0E02CE48B8B00CF53C2 /* Aiwin_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0DF2CE48B8B00CF53C2 /* Aiwin_projectTests.swift */; };
 		2A13E0EA2CE48B8B00CF53C2 /* Aiwin_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0E92CE48B8B00CF53C2 /* Aiwin_projectUITests.swift */; };
 		2A13E0EC2CE48B8B00CF53C2 /* Aiwin_projectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A13E0EB2CE48B8B00CF53C2 /* Aiwin_projectUITestsLaunchTests.swift */; };
+		2A1E06332D018AE900076ECA /* SideMenu in Frameworks */ = {isa = PBXBuildFile; productRef = 2A1E06322D018AE900076ECA /* SideMenu */; };
+		2A1E06382D019C4000076ECA /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1E06372D019C4000076ECA /* SideMenuViewController.swift */; };
+		2A274F002D01AAF30099F5F3 /* sidemenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A274EFF2D01AAF30099F5F3 /* sidemenuTableViewCell.swift */; };
+		2A3A68962D0983CD0003C21D /* launchscreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3A68952D0983CD0003C21D /* launchscreenViewController.swift */; };
+		2A90ABFC2CEC680B00C1F45C /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A90ABFB2CEC680B00C1F45C /* firstViewController.swift */; };
+		2A90ABFE2CEC889D00C1F45C /* timetableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A90ABFD2CEC889D00C1F45C /* timetableViewController.swift */; };
+		2A90AC002CEC9A8A00C1F45C /* timetableTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A90ABFF2CEC9A8A00C1F45C /* timetableTableViewCell.swift */; };
+		2A93C1892D0057C60098D709 /* contactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A93C1882D0057C60098D709 /* contactViewController.swift */; };
+		2A93C18D2D0059500098D709 /* contactTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A93C18C2D0059500098D709 /* contactTableViewCell.swift */; };
+		2A9484E82CE7241B00EB87C0 /* newViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9484E72CE7241B00EB87C0 /* newViewController.swift */; };
+		2A95342E2CF096E30091DD0E /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A95342D2CF096E30091DD0E /* profileViewController.swift */; };
+		2A953CA92CEC530900AD9808 /* notificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A953CA82CEC530900AD9808 /* notificationViewController.swift */; };
+		2AA447892CEDA60200F23E3F /* diaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA447882CEDA60200F23E3F /* diaryViewController.swift */; };
+		2AA4478B2CEDACE700F23E3F /* diaryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA4478A2CEDACE700F23E3F /* diaryTableViewCell.swift */; };
+		2AA4478D2CEDD80800F23E3F /* assignedleaveTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA4478C2CEDD80800F23E3F /* assignedleaveTableViewCell.swift */; };
+		2AA4478F2CEDD82100F23E3F /* leaveapplyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA4478E2CEDD82100F23E3F /* leaveapplyTableViewCell.swift */; };
+		2AA447912CEDD9D100F23E3F /* leaveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA447902CEDD9D100F23E3F /* leaveViewController.swift */; };
+		2AA7F7F32CE5E51600AAE388 /* forgetpasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA7F7F22CE5E51600AAE388 /* forgetpasswordViewController.swift */; };
+		2AEA3C382CEB299E00B47EEA /* homeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEA3C372CEB299E00B47EEA /* homeTableViewCell.swift */; };
+		4C111B46A53B65D8FDAF47B4 /* Pods_Aiwin_projectTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E76AA614895D06B5A24CA316 /* Pods_Aiwin_projectTests.framework */; };
+		767DFE78B792216F7992CF2D /* Pods_Aiwin_project_Aiwin_projectUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BECBC5B26F2E714D7E37E7FA /* Pods_Aiwin_project_Aiwin_projectUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +73,33 @@
 		2A13E0E52CE48B8B00CF53C2 /* Aiwin projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aiwin projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A13E0E92CE48B8B00CF53C2 /* Aiwin_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aiwin_projectUITests.swift; sourceTree = "<group>"; };
 		2A13E0EB2CE48B8B00CF53C2 /* Aiwin_projectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aiwin_projectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A1E06372D019C4000076ECA /* SideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
+		2A274EFF2D01AAF30099F5F3 /* sidemenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sidemenuTableViewCell.swift; sourceTree = "<group>"; };
+		2A3A68952D0983CD0003C21D /* launchscreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = launchscreenViewController.swift; sourceTree = "<group>"; };
+		2A90ABFB2CEC680B00C1F45C /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
+		2A90ABFD2CEC889D00C1F45C /* timetableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timetableViewController.swift; sourceTree = "<group>"; };
+		2A90ABFF2CEC9A8A00C1F45C /* timetableTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timetableTableViewCell.swift; sourceTree = "<group>"; };
+		2A93C1882D0057C60098D709 /* contactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactViewController.swift; sourceTree = "<group>"; };
+		2A93C18C2D0059500098D709 /* contactTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactTableViewCell.swift; sourceTree = "<group>"; };
+		2A9484E72CE7241B00EB87C0 /* newViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newViewController.swift; sourceTree = "<group>"; };
+		2A95342D2CF096E30091DD0E /* profileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
+		2A953CA82CEC530900AD9808 /* notificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notificationViewController.swift; sourceTree = "<group>"; };
+		2AA447882CEDA60200F23E3F /* diaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diaryViewController.swift; sourceTree = "<group>"; };
+		2AA4478A2CEDACE700F23E3F /* diaryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diaryTableViewCell.swift; sourceTree = "<group>"; };
+		2AA4478C2CEDD80800F23E3F /* assignedleaveTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignedleaveTableViewCell.swift; sourceTree = "<group>"; };
+		2AA4478E2CEDD82100F23E3F /* leaveapplyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leaveapplyTableViewCell.swift; sourceTree = "<group>"; };
+		2AA447902CEDD9D100F23E3F /* leaveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leaveViewController.swift; sourceTree = "<group>"; };
+		2AA7F7F22CE5E51600AAE388 /* forgetpasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forgetpasswordViewController.swift; sourceTree = "<group>"; };
+		2AEA3C372CEB299E00B47EEA /* homeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeTableViewCell.swift; sourceTree = "<group>"; };
+		51821418E3F6EE6B4E38C718 /* Pods-Aiwin project-Aiwin projectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin project-Aiwin projectUITests.debug.xcconfig"; path = "Target Support Files/Pods-Aiwin project-Aiwin projectUITests/Pods-Aiwin project-Aiwin projectUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		63ADF9171C2526009C932C73 /* Pods-Aiwin project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin project.release.xcconfig"; path = "Target Support Files/Pods-Aiwin project/Pods-Aiwin project.release.xcconfig"; sourceTree = "<group>"; };
+		8796329719D87958260A2FC9 /* Pods-Aiwin project-Aiwin projectUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin project-Aiwin projectUITests.release.xcconfig"; path = "Target Support Files/Pods-Aiwin project-Aiwin projectUITests/Pods-Aiwin project-Aiwin projectUITests.release.xcconfig"; sourceTree = "<group>"; };
+		A63C79AC18D520217738CD93 /* Pods-Aiwin project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin project.debug.xcconfig"; path = "Target Support Files/Pods-Aiwin project/Pods-Aiwin project.debug.xcconfig"; sourceTree = "<group>"; };
+		B5D9B3FDA39F3923F5EBA3C5 /* Pods-Aiwin projectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin projectTests.release.xcconfig"; path = "Target Support Files/Pods-Aiwin projectTests/Pods-Aiwin projectTests.release.xcconfig"; sourceTree = "<group>"; };
+		BECBC5B26F2E714D7E37E7FA /* Pods_Aiwin_project_Aiwin_projectUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aiwin_project_Aiwin_projectUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E124D717555B16EC789F5D5A /* Pods-Aiwin projectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiwin projectTests.debug.xcconfig"; path = "Target Support Files/Pods-Aiwin projectTests/Pods-Aiwin projectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E76AA614895D06B5A24CA316 /* Pods_Aiwin_projectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aiwin_projectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F42CB8D33D4BD49046443127 /* Pods_Aiwin_project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aiwin_project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +107,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A1E06332D018AE900076ECA /* SideMenu in Frameworks */,
+				034785F643BF37145FD7A67D /* Pods_Aiwin_project.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +116,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C111B46A53B65D8FDAF47B4 /* Pods_Aiwin_projectTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +124,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				767DFE78B792216F7992CF2D /* Pods_Aiwin_project_Aiwin_projectUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		150CC1DD79C51F50EDB8C49A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F42CB8D33D4BD49046443127 /* Pods_Aiwin_project.framework */,
+				BECBC5B26F2E714D7E37E7FA /* Pods_Aiwin_project_Aiwin_projectUITests.framework */,
+				E76AA614895D06B5A24CA316 /* Pods_Aiwin_projectTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		2A13E0B92CE48B8800CF53C2 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +148,8 @@
 				2A13E0DE2CE48B8B00CF53C2 /* Aiwin projectTests */,
 				2A13E0E82CE48B8B00CF53C2 /* Aiwin projectUITests */,
 				2A13E0C32CE48B8900CF53C2 /* Products */,
+				D5C7D916599CA0103BD705BB /* Pods */,
+				150CC1DD79C51F50EDB8C49A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,7 +169,25 @@
 				2A13E0C52CE48B8900CF53C2 /* AppDelegate.swift */,
 				2A13E0C72CE48B8900CF53C2 /* SceneDelegate.swift */,
 				2A13E0C92CE48B8900CF53C2 /* ViewController.swift */,
+				2AA447882CEDA60200F23E3F /* diaryViewController.swift */,
+				2A90ABFD2CEC889D00C1F45C /* timetableViewController.swift */,
+				2A953CA82CEC530900AD9808 /* notificationViewController.swift */,
+				2A9484E72CE7241B00EB87C0 /* newViewController.swift */,
+				2A90ABFF2CEC9A8A00C1F45C /* timetableTableViewCell.swift */,
+				2A90ABFB2CEC680B00C1F45C /* firstViewController.swift */,
+				2AEA3C372CEB299E00B47EEA /* homeTableViewCell.swift */,
+				2AA7F7F22CE5E51600AAE388 /* forgetpasswordViewController.swift */,
+				2AA4478C2CEDD80800F23E3F /* assignedleaveTableViewCell.swift */,
+				2AA4478E2CEDD82100F23E3F /* leaveapplyTableViewCell.swift */,
 				2A13E0CB2CE48B8900CF53C2 /* Main.storyboard */,
+				2A3A68952D0983CD0003C21D /* launchscreenViewController.swift */,
+				2A274EFF2D01AAF30099F5F3 /* sidemenuTableViewCell.swift */,
+				2A1E06372D019C4000076ECA /* SideMenuViewController.swift */,
+				2A93C18C2D0059500098D709 /* contactTableViewCell.swift */,
+				2A93C1882D0057C60098D709 /* contactViewController.swift */,
+				2A95342D2CF096E30091DD0E /* profileViewController.swift */,
+				2AA447902CEDD9D100F23E3F /* leaveViewController.swift */,
+				2AA4478A2CEDACE700F23E3F /* diaryTableViewCell.swift */,
 				2A13E0D12CE48B8B00CF53C2 /* Assets.xcassets */,
 				2A13E0D32CE48B8B00CF53C2 /* LaunchScreen.storyboard */,
 				2A13E0D62CE48B8B00CF53C2 /* Info.plist */,
@@ -130,6 +213,19 @@
 			path = "Aiwin projectUITests";
 			sourceTree = "<group>";
 		};
+		D5C7D916599CA0103BD705BB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A63C79AC18D520217738CD93 /* Pods-Aiwin project.debug.xcconfig */,
+				63ADF9171C2526009C932C73 /* Pods-Aiwin project.release.xcconfig */,
+				51821418E3F6EE6B4E38C718 /* Pods-Aiwin project-Aiwin projectUITests.debug.xcconfig */,
+				8796329719D87958260A2FC9 /* Pods-Aiwin project-Aiwin projectUITests.release.xcconfig */,
+				E124D717555B16EC789F5D5A /* Pods-Aiwin projectTests.debug.xcconfig */,
+				B5D9B3FDA39F3923F5EBA3C5 /* Pods-Aiwin projectTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -137,15 +233,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2A13E0EF2CE48B8B00CF53C2 /* Build configuration list for PBXNativeTarget "Aiwin project" */;
 			buildPhases = (
+				DF606D0949D70505FF21246D /* [CP] Check Pods Manifest.lock */,
 				2A13E0BE2CE48B8900CF53C2 /* Sources */,
 				2A13E0BF2CE48B8900CF53C2 /* Frameworks */,
 				2A13E0C02CE48B8900CF53C2 /* Resources */,
+				DD7EE7D509ED98C8C8852D42 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "Aiwin project";
+			packageProductDependencies = (
+				2A1E06322D018AE900076ECA /* SideMenu */,
+			);
 			productName = "Aiwin project";
 			productReference = 2A13E0C22CE48B8900CF53C2 /* Aiwin project.app */;
 			productType = "com.apple.product-type.application";
@@ -154,6 +255,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2A13E0F22CE48B8B00CF53C2 /* Build configuration list for PBXNativeTarget "Aiwin projectTests" */;
 			buildPhases = (
+				BE5C47A3E92DEBCAA752A184 /* [CP] Check Pods Manifest.lock */,
 				2A13E0D72CE48B8B00CF53C2 /* Sources */,
 				2A13E0D82CE48B8B00CF53C2 /* Frameworks */,
 				2A13E0D92CE48B8B00CF53C2 /* Resources */,
@@ -172,9 +274,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2A13E0F52CE48B8B00CF53C2 /* Build configuration list for PBXNativeTarget "Aiwin projectUITests" */;
 			buildPhases = (
+				C6D4D71F78E2CFA48061C0CD /* [CP] Check Pods Manifest.lock */,
 				2A13E0E12CE48B8B00CF53C2 /* Sources */,
 				2A13E0E22CE48B8B00CF53C2 /* Frameworks */,
 				2A13E0E32CE48B8B00CF53C2 /* Resources */,
+				E795FE160EF63CB22A004256 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -218,6 +322,9 @@
 				Base,
 			);
 			mainGroup = 2A13E0B92CE48B8800CF53C2;
+			packageReferences = (
+				2A1E06312D018AE900076ECA /* XCRemoteSwiftPackageReference "SideMenu" */,
+			);
 			productRefGroup = 2A13E0C32CE48B8900CF53C2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -256,15 +363,136 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		BE5C47A3E92DEBCAA752A184 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Aiwin projectTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C6D4D71F78E2CFA48061C0CD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Aiwin project-Aiwin projectUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD7EE7D509ED98C8C8852D42 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiwin project/Pods-Aiwin project-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiwin project/Pods-Aiwin project-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Aiwin project/Pods-Aiwin project-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF606D0949D70505FF21246D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Aiwin project-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E795FE160EF63CB22A004256 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiwin project-Aiwin projectUITests/Pods-Aiwin project-Aiwin projectUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiwin project-Aiwin projectUITests/Pods-Aiwin project-Aiwin projectUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Aiwin project-Aiwin projectUITests/Pods-Aiwin project-Aiwin projectUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2A13E0BE2CE48B8900CF53C2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AA447912CEDD9D100F23E3F /* leaveViewController.swift in Sources */,
+				2A93C1892D0057C60098D709 /* contactViewController.swift in Sources */,
+				2AA447892CEDA60200F23E3F /* diaryViewController.swift in Sources */,
 				2A13E0D02CE48B8900CF53C2 /* Aiwin_project.xcdatamodeld in Sources */,
 				2A13E0CA2CE48B8900CF53C2 /* ViewController.swift in Sources */,
+				2A953CA92CEC530900AD9808 /* notificationViewController.swift in Sources */,
+				2A3A68962D0983CD0003C21D /* launchscreenViewController.swift in Sources */,
+				2AA7F7F32CE5E51600AAE388 /* forgetpasswordViewController.swift in Sources */,
 				2A13E0C62CE48B8900CF53C2 /* AppDelegate.swift in Sources */,
+				2A1E06382D019C4000076ECA /* SideMenuViewController.swift in Sources */,
+				2AA4478B2CEDACE700F23E3F /* diaryTableViewCell.swift in Sources */,
 				2A13E0C82CE48B8900CF53C2 /* SceneDelegate.swift in Sources */,
+				2AEA3C382CEB299E00B47EEA /* homeTableViewCell.swift in Sources */,
+				2A9484E82CE7241B00EB87C0 /* newViewController.swift in Sources */,
+				2AA4478D2CEDD80800F23E3F /* assignedleaveTableViewCell.swift in Sources */,
+				2AA4478F2CEDD82100F23E3F /* leaveapplyTableViewCell.swift in Sources */,
+				2A90ABFE2CEC889D00C1F45C /* timetableViewController.swift in Sources */,
+				2A90ABFC2CEC680B00C1F45C /* firstViewController.swift in Sources */,
+				2A90AC002CEC9A8A00C1F45C /* timetableTableViewCell.swift in Sources */,
+				2A93C18D2D0059500098D709 /* contactTableViewCell.swift in Sources */,
+				2A95342E2CF096E30091DD0E /* profileViewController.swift in Sources */,
+				2A274F002D01AAF30099F5F3 /* sidemenuTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,16 +664,18 @@
 		};
 		2A13E0F02CE48B8B00CF53C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A63C79AC18D520217738CD93 /* Pods-Aiwin project.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SBPJDXG7CY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Aiwin project/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -464,16 +694,18 @@
 		};
 		2A13E0F12CE48B8B00CF53C2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 63ADF9171C2526009C932C73 /* Pods-Aiwin project.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SBPJDXG7CY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Aiwin project/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -492,6 +724,7 @@
 		};
 		2A13E0F32CE48B8B00CF53C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E124D717555B16EC789F5D5A /* Pods-Aiwin projectTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -512,6 +745,7 @@
 		};
 		2A13E0F42CE48B8B00CF53C2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5D9B3FDA39F3923F5EBA3C5 /* Pods-Aiwin projectTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -532,6 +766,7 @@
 		};
 		2A13E0F62CE48B8B00CF53C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 51821418E3F6EE6B4E38C718 /* Pods-Aiwin project-Aiwin projectUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -550,6 +785,7 @@
 		};
 		2A13E0F72CE48B8B00CF53C2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8796329719D87958260A2FC9 /* Pods-Aiwin project-Aiwin projectUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -606,6 +842,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		2A1E06312D018AE900076ECA /* XCRemoteSwiftPackageReference "SideMenu" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kukushi/SideMenu.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		2A1E06322D018AE900076ECA /* SideMenu */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2A1E06312D018AE900076ECA /* XCRemoteSwiftPackageReference "SideMenu" */;
+			productName = SideMenu;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		2A13E0CE2CE48B8900CF53C2 /* Aiwin_project.xcdatamodeld */ = {
